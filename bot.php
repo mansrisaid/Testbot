@@ -1,5 +1,5 @@
 <?php
-$token = "ضع_رمز_API_هنا";
+$token = "8582221864:AAEGkl0LSk3EQ6aYHhALJQSBfOd6gU0DM9Q";
 $data = file_get_contents("php://input");
 $update = json_decode($data, true);
 
